@@ -1,0 +1,13 @@
+{
+  "name": "missed-call-recovery-demo",
+  "version": "1.0.0",
+  "description": "Missed call SMS recovery demo with Twilio, Node, and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "twilio": "^5.5.3"
+  }
+}
